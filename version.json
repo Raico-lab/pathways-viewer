@@ -1,0 +1,10 @@
+{
+ "version": "46d210c89f15",
+ "commit": "05788cf",
+ "built_at": "2026-10-05 09:45",
+ "sizes": {
+  "tor_pathway.db": 28942336,
+  "expression.db": 28893184
+ },
+ "repo": "Raico-lab/pathways-viewer"
+}
