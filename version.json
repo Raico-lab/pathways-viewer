@@ -1,0 +1,15 @@
+{
+ "version": "b8b1b88b3f53",
+ "commit": "e84c5da",
+ "built_at": "2026-10-10 20:48",
+ "sizes": {
+  "tor_pathway.db": 27389952,
+  "expression.db": 36765696
+ },
+ "repo": "Raico-lab/pathways-viewer",
+ "desktop_version": "2026.10.10-e84c5da",
+ "desktop_sizes": {
+  "PathwaysViewer-mac.dmg": 213741553,
+  "PathwaysViewer-windows-setup.exe": 158586367
+ }
+}
